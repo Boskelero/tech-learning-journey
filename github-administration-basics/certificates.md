@@ -1,49 +1,33 @@
 # Certificates
 
-## Administration Basics and Product Features Part 1 of 2
-
-Status: ✅ Passed
-
-Completed: June 14, 2026
-
-### Achievement
-
-![GitHub Administration Part 1](../assets/certificates/github-administration-products.svg)
-
-### Verification
-
-🔗 [Microsoft Learn Profile](https://learn.microsoft.com/en-us/users/yossk-1196/achievements)
-
-### Skills Learned
-
-- GitHub Organizations
-- Teams and Permissions
-- Repository Access Control
-- Branch Protection Rules
-- Repository Governance
+🔗 **Verification:**
+[Microsoft Learn Profile](https://learn.microsoft.com/en-us/users/yossk-1196/achievements)
 
 ---
 
-## Administration Basics and Product Features Part 2 of 2
+| Achievement                                            | Status   | Completed     | Badge                                                                            |
+| ------------------------------------------------------ | -------- | ------------- | -------------------------------------------------------------------------------- |
+| Administration Basics and Product Features Part 1 of 2 | ✅ Passed | June 14, 2026 | <img src="../assets/certificates/github-administration-products.svg" width="80"> |
+| Administration Basics and Product Features Part 2 of 2 | ✅ Passed | June 18, 2026 | <img src="../assets/certificates/github-administration-products.svg" width="80"> |
 
-Status: ✅ Passed
+---
 
-Completed: June 18, 2026
+## Skills Learned
 
-### Achievement
+### Part 1
 
-![GitHub Administration Part 2](../assets/certificates/github-admin-part2.png)
+* GitHub Organizations
+* Teams and Permissions
+* Repository Access Control
+* Branch Protection Rules
+* Repository Governance
 
-### Verification
+### Part 2
 
-🔗 [Microsoft Learn Profile](https://learn.microsoft.com/en-us/users/yossk-1196/achievements)
-
-### Skills Learned
-
-- GitHub Actions Fundamentals
-- Security Features
-- Dependabot
-- Secret Scanning
-- Code Scanning
-- Enterprise Features
-- Administrative Best Practices
+* GitHub Actions Fundamentals
+* Security Features
+* Dependabot
+* Secret Scanning
+* Code Scanning
+* Enterprise Features
+* Administrative Best Practices

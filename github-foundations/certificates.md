@@ -1,49 +1,33 @@
 # Certificates
 
-## GitHub Foundations Part 1 of 2
-
-Status: ✅ Passed
-
-Completed: June 10, 2026
-
-### Achievement
-
-![GitHub Foundations Part 1](../assets/certificates/github-foundations.svg)
-
-### Verification
-
-🔗 [Microsoft Learn Profile](https://learn.microsoft.com/en-us/users/yossk-1196/achievements)
-
-### Skills Learned
-
-- Git fundamentals
-- Repositories
-- Branches
-- Commits
-- Pull Requests
-- GitHub Flow
+🔗 **Verification:**
+[Microsoft Learn Profile](https://learn.microsoft.com/en-us/users/yossk-1196/achievements)
 
 ---
 
-## GitHub Foundations Part 2 of 2
+| Achievement                    | Status   | Completed     | Badge                                                                |
+| ------------------------------ | -------- | ------------- | -------------------------------------------------------------------- |
+| GitHub Foundations Part 1 of 2 | ✅ Passed | June 10, 2026 | <img src="../assets/certificates/github-foundations.svg" width="80"> |
+| GitHub Foundations Part 2 of 2 | ✅ Passed | June 17, 2026 | <img src="../assets/certificates/github-foundations.svg" width="80"> |
 
-Status: ✅ Passed
+---
 
-Completed: June 17, 2026
+## Skills Learned
 
-### Achievement
+### Part 1
 
-![GitHub Foundations Part 2](../assets/certificates/github-foundations.svg)
+* Git fundamentals
+* Repositories
+* Branches
+* Commits
+* Pull Requests
+* GitHub Flow
 
-### Verification
+### Part 2
 
-🔗 [Microsoft Learn Profile](https://learn.microsoft.com/en-us/users/yossk-1196/achievements)
-
-### Skills Learned
-
-- Collaboration
-- Issues
-- Discussions
-- GitHub Projects
-- Security fundamentals
-- Team workflows
+* Collaboration
+* Issues
+* Discussions
+* GitHub Projects
+* Security fundamentals
+* Team workflows
