@@ -9,17 +9,10 @@ This section contains my notes, exercises, achievements, and cheat sheets from G
 
 ## Achievements
 
-### GitHub Foundations Part 1 of 2
-
-![GitHub Foundations Part 1](../assets/certificates/github-foundations-part1.png)
-
-Completed: June 10, 2026
-
-### GitHub Foundations Part 2 of 2
-
-![GitHub Foundations Part 2](../assets/certificates/github-foundations-part2.png)
-
-Completed: June 17, 2026
+| Achievement                    | Status   | Completed     | Badge                                                                |
+| ------------------------------ | -------- | ------------- | -------------------------------------------------------------------- |
+| GitHub Foundations Part 1 of 2 | ✅ Passed | June 10, 2026 | <img src="../assets/certificates/github-foundations.svg" width="70"> |
+| GitHub Foundations Part 2 of 2 | ✅ Passed | June 17, 2026 | <img src="../assets/certificates/github-foundations.svg" width="70"> |
 
 ---
 
@@ -31,21 +24,36 @@ Completed: June 17, 2026
 
 ## Topics Covered
 
-- Git Basics
-- GitHub Basics
-- Repositories
-- Branches
-- Commits
-- Pull Requests
-- Issues
-- GitHub Flow
-- Collaboration
-- GitHub Security Basics
+### Part 1
+
+* Git Basics
+* GitHub Basics
+* Repositories
+* Branches
+* Commits
+* Pull Requests
+* GitHub Flow
+
+### Part 2
+
+* Collaboration
+* Issues
+* Discussions
+* GitHub Projects
+* GitHub Security Basics
+* Team Workflows
 
 ---
 
 ## Files
 
-- `cheatsheet.md`
-- `certificates.md`
-- `exercises/`
+* `cheatsheet.md`
+* `certificates.md`
+* `exercises/`
+
+---
+
+## Related Files
+
+* [Certificates](./certificates.md)
+* [Cheat Sheet](./cheatsheet.md)

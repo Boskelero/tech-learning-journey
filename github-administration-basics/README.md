@@ -9,17 +9,10 @@ This section contains my notes, exercises, achievements, and cheat sheets from G
 
 ## Achievements
 
-### Administration Basics and Product Features Part 1 of 2
-
-![GitHub Administration Part 1](../assets/certificates/github-administration-products.svg)
-
-Completed: June 14, 2026
-
-### Administration Basics and Product Features Part 2 of 2
-
-![GitHub Administration Part 2](../assets/certificates/github-administration-products.svg)
-
-Completed: June 18, 2026
+| Achievement                                            | Status   | Completed     | Badge                                                                            |
+| ------------------------------------------------------ | -------- | ------------- | -------------------------------------------------------------------------------- |
+| Administration Basics and Product Features Part 1 of 2 | ✅ Passed | June 14, 2026 | <img src="../assets/certificates/github-administration-products.svg" width="70"> |
+| Administration Basics and Product Features Part 2 of 2 | ✅ Passed | June 18, 2026 | <img src="../assets/certificates/github-administration-products.svg" width="70"> |
 
 ---
 
@@ -31,21 +24,35 @@ Completed: June 18, 2026
 
 ## Topics Covered
 
-- GitHub Organizations
-- Teams
-- Repository Permissions
-- Branch Protection
-- Security Features
-- GitHub Actions
-- GitHub Enterprise Concepts
-- Repository Management
-- Access Control
-- Governance
+### Part 1
+
+* GitHub Organizations
+* Teams
+* Repository Permissions
+* Repository Access Control
+* Branch Protection
+* Governance
+
+### Part 2
+
+* Security Features
+* GitHub Actions
+* Dependabot
+* Secret Scanning
+* GitHub Enterprise Concepts
+* Repository Management
 
 ---
 
 ## Files
 
-- `cheatsheet.md`
-- `certificates.md`
-- `exercises/`
+* `cheatsheet.md`
+* `certificates.md`
+* `exercises/`
+
+---
+
+## Related Files
+
+* [Certificates](./certificates.md)
+* [Cheat Sheet](./cheatsheet.md)
