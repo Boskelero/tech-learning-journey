@@ -8,7 +8,7 @@ Completed: June 10, 2026
 
 ### Achievement
 
-![GitHub Foundations Part 1](../assets/certificates/gitHub-foundations.svg)
+![GitHub Foundations Part 1](../assets/certificates/github-foundations.svg)
 
 ### Verification
 

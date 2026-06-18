@@ -8,7 +8,7 @@ Completed: June 14, 2026
 
 ### Achievement
 
-![GitHub Administration Part 1](../assets/certificates/github-admin-part1.png)
+![GitHub Administration Part 1](../assets/certificates/github-administration-products.svg)
 
 ### Verification
 
