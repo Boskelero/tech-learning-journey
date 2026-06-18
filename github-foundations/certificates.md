@@ -33,7 +33,7 @@ Completed: June 17, 2026
 
 ### Achievement
 
-![GitHub Foundations Part 2](../assets/certificates/gitHub-foundations.svg)
+![GitHub Foundations Part 2](../assets/certificates/github-foundations.svg)
 
 ### Verification
 
